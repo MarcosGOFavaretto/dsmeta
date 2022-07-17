@@ -1,0 +1,8 @@
+/**
+ * Os services são onde as regras de negócios são implementadas.
+ */
+package com.devsuperior.dsmeta.services;
+
+public class SaleService {
+
+}

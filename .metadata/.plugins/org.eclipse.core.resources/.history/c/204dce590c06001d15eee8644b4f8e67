@@ -1,0 +1,16 @@
+/**
+ * Os services são onde as regras de negócios são implementadas.
+ */
+package com.devsuperior.dsmeta.services;
+
+import java.util.List;
+
+import com.devsuperior.dsmeta.entities.Sale;
+
+public class SaleService {
+
+	public List<Sale> findSales() {
+		
+	}
+	
+}

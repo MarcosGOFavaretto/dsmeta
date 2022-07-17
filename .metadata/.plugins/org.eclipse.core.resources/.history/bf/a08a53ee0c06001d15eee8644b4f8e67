@@ -1,0 +1,8 @@
+/**
+ * Os Controllers são responsáveis por fornecer e processar ações de end-points.
+ */
+package com.devsuperior.dsmeta.controllers;
+
+public class SaleController {
+
+}
